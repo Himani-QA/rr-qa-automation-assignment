@@ -28,10 +28,10 @@ npm install -g allure-commandline
 npx playwright test
 
 ###  Run Only UI Tests
-npx playwright test tests/ui-tests.spec.js
+npx playwright test tests/APITestAutomation.spec.js
 
 ###  Run Only API Tests
-npx playwright test tests/api-tests.spec.js
+npx playwright test tests/UITestAutomation.spec.js
 
 ### Run Tests with Allure Reporting
 npx playwright test --reporter=line,allure-playwright
