@@ -1,0 +1,5 @@
+Navigating to homepage
+Selecting "Trending" category
+//p[normalize-space()='xXx']
+Verified that content is visible for Trending category
+Trending category loaded with 20 items

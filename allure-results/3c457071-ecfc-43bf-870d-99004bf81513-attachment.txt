@@ -1,0 +1,11 @@
+Navigated to TMDB Discover homepage
+🎬 Selected option: Movie
+✅ Type filter applied successfully: Movies
+Applied Type filter: Movies
+🎬 Selected genre: Action
+✅ Selected genres: Action
+Applied Genre filter: Action
+✅ Selected year range: 2020 - 2024
+Applied Year Range filter: 2020–2024
+//p[normalize-space()='Martin']
+✅ Combined Movies + Action + Year filter applied successfully

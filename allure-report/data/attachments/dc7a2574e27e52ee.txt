@@ -1,0 +1,10 @@
+Navigating to homepage
+Switching to TV Shows type
+📺 Selected option: TV Shows
+✅ Type filter applied successfully: TV Shows
+TV Shows count: 20
+Selecting Movies type
+🎬 Selected option: Movie
+✅ Type filter applied successfully: Movies
+Movies count: 20
+Type switching successful: Movies=20, TV=20

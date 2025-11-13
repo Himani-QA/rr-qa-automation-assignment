@@ -1,0 +1,76 @@
+Navigated to TMDB Discover homepage
+Scrolled to bottom of homepage
+Card Titles: [
+  'Frankenstein',
+  'Predator: Badlands',
+  'Black Phone 2',
+  'Code 3',
+  'War of the Worlds',
+  'End of Loyalty',
+  'Abyss',
+  'Playdate',
+  'Chainsaw Man - The Movie: Reze Arc',
+  'Baramulla',
+  'Demon Slayer: Kimetsu no Yaiba Infinity Castle',
+  'xXx',
+  'Captain Hook: The Cursed Tides',
+  'Afterburn',
+  'The Fantastic 4: First Steps',
+  'Hunting Grounds',
+  'Kryptic',
+  'KPop Demon Hunters',
+  'Martin',
+  'The Conjuring: Last Rites'
+]
+Clicked Next page button successfully
+locator('#react-paginate a[aria-current="page"][aria-label="Page 2 is your current page"]')
+✅ Page 2 is active and verified
+Card Titles: [
+  'They Were Witches',
+  'Stolen Girl',
+  'Ko Ga Loak Village',
+  'Padre no hay más que uno 5: Nido repleto',
+  'The Ugly Stepsister',
+  'Good Fortune',
+  'The Toxic Avenger Unrated',
+  'Colonel Kwiatkowski',
+  'Inside Furioza',
+  'Grand Prix of Europe',
+  'Mission: Impossible - The Final Reckoning',
+  "Now You See Me: Now You Don't",
+  'Holy Night: Demon Hunters',
+  'Groom & Two Brides',
+  'Superman',
+  'Our Fault',
+  'The Book',
+  'Primitive War',
+  'Marco',
+  'Jurassic World Rebirth'
+]
+✅ Next page navigation successful
+Clicked Previous page button successfully
+locator('#react-paginate a[aria-current="page"][aria-label="Page 1 is your current page"]')
+✅ Page 1 is active and verified
+Card Titles: [
+  'Frankenstein',
+  'Predator: Badlands',
+  'Black Phone 2',
+  'Code 3',
+  'War of the Worlds',
+  'End of Loyalty',
+  'Abyss',
+  'Playdate',
+  'Chainsaw Man - The Movie: Reze Arc',
+  'Baramulla',
+  'Demon Slayer: Kimetsu no Yaiba Infinity Castle',
+  'xXx',
+  'Captain Hook: The Cursed Tides',
+  'Afterburn',
+  'The Fantastic 4: First Steps',
+  'Hunting Grounds',
+  'Kryptic',
+  'KPop Demon Hunters',
+  'Martin',
+  'The Conjuring: Last Rites'
+]
+✅ Previous page navigation successful

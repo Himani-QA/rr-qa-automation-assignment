@@ -1,0 +1,4 @@
+Navigating to homepage
+Searching for invalid movie title: XYZABC12345678
+Search for invalid term returned 0 items
+No results displayed as expected for invalid search

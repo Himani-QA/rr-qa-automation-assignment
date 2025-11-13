@@ -1,0 +1,7 @@
+Navigating to TMDB Discover homepage
+Applying TV Shows filter
+📺 Selected option: TV Shows
+✅ Type filter applied successfully: TV Shows
+//p[normalize-space()='The Rookie']
+TV Shows content is visible after applying filter
+TV Shows filter applied successfully: 20 items displayed

@@ -1,0 +1,7 @@
+Navigating to TMDB Discover homepage
+Applying Movies filter
+🎬 Selected option: Movie
+✅ Type filter applied successfully: Movie
+//p[normalize-space()='Baramulla']
+Movies content is visible after applying filter
+Movies filter applied successfully: 20 items displayed

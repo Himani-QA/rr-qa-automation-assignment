@@ -1,0 +1,6 @@
+Navigating to TMDB Discover homepage
+Filtering by year range: 2020-2023
+✅ Selected year range: 2020 - 2024
+//p[normalize-space()='Every Day']
+Content is visible after year range filter
+Year range 2020-2023: 20 items found

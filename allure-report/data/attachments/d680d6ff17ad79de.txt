@@ -1,0 +1,5 @@
+Scrolled to bottom of homepage
+Navigated to TMDB Discover homepage
+Attempting to navigate to page 53637
+➡️ Clicked on Page 53643
+✅ No grid displayed for invalid page number (expected)

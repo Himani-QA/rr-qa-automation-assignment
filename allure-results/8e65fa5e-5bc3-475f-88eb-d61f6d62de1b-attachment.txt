@@ -1,0 +1,50 @@
+Navigating to homepage
+Searching for movie title: Predator
+//p[normalize-space()='Predator']
+Verified that search results are visible
+Card Titles: [
+  'Predator',
+  'Predator: Badlands',
+  'Predator',
+  'Apex Predators 2: The Spawning',
+  'Predator: Killer of Killers',
+  'The Predators',
+  'Predator World',
+  'Predators',
+  'Aliens vs Predator: Requiem',
+  'The Predator',
+  'HDSP: Hunting Down Small Predators',
+  'Predator 2',
+  'Yuan Tiangang and Deadly Predators',
+  'AVP: Alien vs. Predator',
+  'Anguish Cry of Predator Bird',
+  'Predators',
+  'Mega Hammerhead: Ultimate Predator',
+  'Predators',
+  'Predators of the Deep: The Hunt for the Lost Four',
+  'A Predator Returns'
+]
+[
+  'Predator',
+  'Predator: Badlands',
+  'Predator',
+  'Apex Predators 2: The Spawning',
+  'Predator: Killer of Killers',
+  'The Predators',
+  'Predator World',
+  'Predators',
+  'Aliens vs Predator: Requiem',
+  'The Predator',
+  'HDSP: Hunting Down Small Predators',
+  'Predator 2',
+  'Yuan Tiangang and Deadly Predators',
+  'AVP: Alien vs. Predator',
+  'Anguish Cry of Predator Bird',
+  'Predators',
+  'Mega Hammerhead: Ultimate Predator',
+  'Predators',
+  'Predators of the Deep: The Hunt for the Lost Four',
+  'A Predator Returns'
+]
+Search returned 20 results
+Results contain search term: true

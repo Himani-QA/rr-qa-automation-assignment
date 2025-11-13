@@ -1,0 +1,5 @@
+Navigating to homepage
+Selecting "Top Rated" category
+//p[normalize-space()='The Godfather']
+Verified that content is visible for Top Rated category
+Top Rated category loaded with 20 items

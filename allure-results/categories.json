@@ -1,0 +1,1 @@
+[{"name":"Known Issues","matchedStatuses":["failed"],"messageRegex":".*Known Issue.*"},{"name":"API Failures","matchedStatuses":["broken"],"messageRegex":".*API.*"}]

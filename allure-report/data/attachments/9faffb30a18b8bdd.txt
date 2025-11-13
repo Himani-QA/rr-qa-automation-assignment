@@ -1,0 +1,6 @@
+Filtering by Action genre
+🎬 Selected genre: Action
+✅ Selected genres: Action
+//p[normalize-space()='Martin']
+Content is visible after applying Action genre filter
+Action genre: 20 items found

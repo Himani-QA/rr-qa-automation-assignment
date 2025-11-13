@@ -1,0 +1,5 @@
+Navigating to homepage
+Filtering by rating
+✅ Selected star rating: 0
+//p[normalize-space()='War of the Worlds']
+Content is visible after applying rating 

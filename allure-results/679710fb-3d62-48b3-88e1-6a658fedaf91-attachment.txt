@@ -1,0 +1,4 @@
+Navigating to homepage
+Searching for partial movie title: Mar
+//p[normalize-space()='Mar']
+Partial search results displayed successfully

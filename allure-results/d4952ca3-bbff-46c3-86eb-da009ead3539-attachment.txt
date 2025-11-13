@@ -1,0 +1,8 @@
+Navigated to TMDB Discover homepage
+Scrolled to bottom of homepage
+➡️ Clicked on Page 2
+Clicked on Page 2
+locator('#react-paginate a[aria-current="page"][aria-label="Page 2 is your current page"]')
+✅ Page 2 is active and verified
+//p[normalize-space()='Stolen Girl']
+✅ Grid content is displayed after navigating to Page 2

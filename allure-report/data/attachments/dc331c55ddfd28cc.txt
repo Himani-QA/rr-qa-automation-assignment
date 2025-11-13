@@ -1,0 +1,4 @@
+Navigating to homepage
+Selecting "Popular" category
+//p[normalize-space()='Frankenstein']
+Verified that content is visible for Popular category

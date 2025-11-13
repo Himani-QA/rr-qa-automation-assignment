@@ -1,0 +1,6 @@
+Navigating to homepage
+Filtering by Max rating: 4.5
+✅ Selected star rating: 4
+//p[normalize-space()='End of Loyalty']
+Content is visible after applying Max rating filter
+Rating 8+ filter: 20 items found

@@ -1,0 +1,5 @@
+Navigating to homepage
+Selecting "Newest" category
+//p[normalize-space()='Baramulla']
+Verified that content is visible for Newest category
+Newest category loaded with 20 items
